@@ -1,3 +1,4 @@
+---
 # Airflow DAG: Process Real Estate CSV Files
 
 ## Overview
